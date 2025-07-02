@@ -58,6 +58,8 @@ _(Replace the link after deployment)_
 
 Home page -![Home Page](./src/assets/home.png) 
 
+---
+
 
 Cart Model - ![Cart Modal](./src/assets/cart.png)
 
