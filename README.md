@@ -56,13 +56,12 @@ _(Replace the link after deployment)_
 
 ## 📷 Screenshots
 
-> *(Add screenshots if possible — optional)*  
-Example:
 
-```md
-![Home Page](./assets/screenshot-home.png)  
-![Cart Modal](./assets/screenshot-cart.png)
-```
+## 📷 Screenshots
+
+![Home Page](./src/assets/home.png)  
+![Cart Modal](./src/assets/cart.png)
+
 
 ---
 
