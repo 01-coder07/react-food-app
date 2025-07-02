@@ -1,9 +1,15 @@
 import { useEffect, useState, useCallback } from "react";
 
 async function sendHttpRequest(url, config) {
-  const response = await fetch(url, config);
-  
+  // Simulate a successful POST
+  if (config.method === "POST") {
+    return new Promise((resolve) =>
+      setTimeout(() => resolve({ success: true }), 1000)
+    );
+  }
 
+  
+  const response = await fetch(url, config);
   const resData = await response.json();
 
   if (!response.ok) {
@@ -12,6 +18,7 @@ async function sendHttpRequest(url, config) {
 
   return resData;
 }
+
 
 export default function useHttp(url, config, initialData) {
   const [data, setData] = useState(initialData);
