@@ -6,8 +6,8 @@ A complete frontend food ordering web application built using React. Users can b
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the live project](https://your-live-link.vercel.app)  
-_(Replace the link after deployment)_
+🌐 [Click here to view the live project]https://react-food-app-drab.vercel.app/  
+
 
 ---
 
