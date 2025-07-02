@@ -56,11 +56,8 @@ _(Replace the link after deployment)_
 
 ## 📷 Screenshots
 
-
-## 📷 Screenshots
-
-![Home Page](./src/assets/home.png)  
-![Cart Modal](./src/assets/cart.png)
+Home page -![Home Page](./src/assets/home.png)  
+Cart Model - ![Cart Modal](./src/assets/cart.png)
 
 
 ---
