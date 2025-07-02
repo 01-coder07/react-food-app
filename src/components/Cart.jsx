@@ -44,7 +44,7 @@ export default function Cart() {
         ))}
       </ul>
 
-      <p className="cart-total">Total: ₹{cartTotal.toFixed(2)}</p>
+      <p className="cart-total">Total: ${cartTotal.toFixed(2)}</p>
       <p className="modal-actions">
         <Button textOnly onClick={handleClose}>
           Close

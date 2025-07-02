@@ -4,10 +4,10 @@ import Error from "./Error.jsx";
 const requestConfig = {};
 export default function Meals() {
   const {
-    data: loadedMeals=[],
-    isLoading, 
+    data: loadedMeals = [],
+    isLoading,
     error,
-  } = useHttp("http://localhost:3000/meals", requestConfig, []);
+  } = useHttp("/meals.json", requestConfig, []);
 
   console.log(loadedMeals);
 
