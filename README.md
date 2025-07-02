@@ -34,8 +34,11 @@ _(Replace the link after deployment)_
 
 ## 📁 Project Structure
 
-<details> <summary>👇 Click to Expand and Copy</summary>
-```
+<details>
+  <summary>👇 Click to Expand and Copy</summary>
+
+  <pre>
+
 📦 src/
  ┣ 📂components/
  ┃ ┣ 📜Meals.jsx
@@ -50,8 +53,10 @@ _(Replace the link after deployment)_
  ┃ ┗ 📜UserProgressContext.jsx
  ┣ 📂hooks/
  ┃ ┗ 📜useHttp.js
-```
+
+  </pre>
 </details>
+
 ---
 
 ## 📷 Screenshots
