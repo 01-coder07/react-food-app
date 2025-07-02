@@ -56,7 +56,9 @@ _(Replace the link after deployment)_
 
 ## 📷 Screenshots
 
-Home page -![Home Page](./src/assets/home.png)  
+Home page -![Home Page](./src/assets/home.png) 
+
+
 Cart Model - ![Cart Modal](./src/assets/cart.png)
 
 
